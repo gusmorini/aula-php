@@ -1,0 +1,36 @@
+*{
+	font-family: arial;
+}
+
+body{
+	text-align: center;
+}
+
+form{
+	padding: 20px;
+	text-align: left;
+	width: 500px;
+	margin: auto;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+
+form input{
+	padding: 20px 10px;
+	margin-bottom: 30px;
+	width: 100%;
+	border: 1px solid #ccc;
+	box-sizing: border-box;
+}
+
+form p {
+	background: #ccc;
+	padding: 20px 10px;
+	margin-bottom: 40px;
+}
+
+button{
+	padding: 10px;
+	font-size: 16px;
+	text-transform: uppercase;
+}
